@@ -1,0 +1,26 @@
+#addproductbtn {
+  color: white;
+  text-align: center;
+  background-color: rgba(255, 0, 0, 0.845);
+  padding: 0.63%;
+  font-size: 18px;
+  width: 75%;
+  margin: auto;
+  margin-bottom: 10%;
+}
+#addproduct {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#addproductpnl {
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+  color: rgba(255, 0, 0, 0.665);
+  font-weight: 600;
+  margin-top: 5%;
+}
+.addinp {
+  width: 75%;
+}

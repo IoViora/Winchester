@@ -1,0 +1,30 @@
+.notfound {
+  display: flex;
+  justify-content: space-evenly;
+  margin: -10%;
+}
+.notfoundleft {
+  font-size: 216px;
+  color: #dddd;
+  font-weight: 500;
+  display: flex;
+}
+.notfoundright {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.notfoundtext {
+  display: flex;
+  text-align: center;
+}
+.notfoundinput {
+  margin-top: 1%;
+  padding: 1%;
+  width: 55%;
+  color: #555;
+}
+.notfoundsearch {
+  padding: 1%;
+  color: #555;
+}

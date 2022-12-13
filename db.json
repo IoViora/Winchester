@@ -1,0 +1,284 @@
+{
+  "products": [
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/rifles/xpr/2021/extreme-midnight-mb/XPR-Extreme-Midnight-Muzzle-Break-Rifle%20-%20535776294-08.jpg?width=835&auto=webp&quality=75",
+      "name": "XPR Extreme Hunter – TrueTimber Midnight MB",
+      "price": "1250",
+      "descr": "Bolt action rifle with Tungsten Cerakote finish on barrel and receiver, composite stock with TrueTimber® Midnight camouflage finish. Precision button-rifled barrel, M.O.A. trigger system, two-position thumb safety, bolt unlock button, detachable box magazine, Inflex® Technology recoil pad, sling swivel studs.",
+      "id": 3,
+      "type": "Rifle"
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/rifles/model-70/2020/extreme-hunter-strata/WRF21_535773228-01.jpg?width=835&auto=webp&quality=75",
+      "name": "XPR – TrueTimber Strata MB",
+      "price": 2400,
+      "descr": " Accurate bolt-action hunting rifle featuring a composite stock with TrueTimber® Strata camo finish. Barrel and action with Perma-Cote FDE finish, precision button-rifled barrel with muzzle brake, M.O.A. trigger system, bolt unlock button, detachable box magazine.",
+      "type": "Rifle",
+      "id": 5
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/rifles/xpr/2021/hunter-dna/Winchester%20XPR%20Hunter%20DNA%20-%20535771233-01.jpg?width=835&auto=webp&quality=75",
+      "name": "XPR Hunter – Mossy Oak DNA",
+      "price": 2250,
+      "descr": " Rugged bolt-action big game rifle featuring Perma-Cote matte finish on the barrel and receiver, composite stock with Mossy Oak® Country DNA camouflage, Inflex Technology recoil pad, MOA trigger system and detachable box magazine.",
+      "type": "Rifle",
+      "id": 6
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/rifles/xpr/2018/compact-combo/Winchester%20XPR%20Compact%20Combo%20-%20535737220.jpg?width=835&auto=webp&quality=75",
+      "name": "XPR Compact Scope Combo",
+      "price": 2800,
+      "descr": "Let the XPR and a Vortex change your game. The XPR has created a new way to look at bolt action value. The XPR is a rugged, reliable and precise bolt-action rifle built for the next generation of Winchester hunters. Combining proven concepts from the Model 70 with more efficient manufacturing processes means that the XPR is a superb hunting rifle at a more affordable price. Top accuracy with a Vortex Crossfire II 3-9x40 with BDC reticle scope mounted with full VIP warranty from Vortex plus Weaver style rings and bases.",
+      "type": "Rifle",
+      "id": 7
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/rifles/xpr/vortex-scope-combo/XPR-with-Vortex-Scope-Combo-535705-3232hr.jpg?width=835&auto=webp&quality=75",
+      "name": "XPR Scope Combo",
+      "price": 2750,
+      "descr": "The XPR has created a new way to look at bolt action value. The XPR is a rugged, reliable and precise bolt-action rifle built for the next generation of Winchester hunters. Combining proven concepts from the Model 70 with more efficient manufacturing processes means that the XPR is a superb hunting rifle at a more affordable price. Top accuracy with a Vortex Crossfire II 3-9x40 with BDC reticle scope mounted with full VIP warranty from Vortex plus Weaver style rings and bases.",
+      "type": "Rifle",
+      "id": 8
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/rifles/xpr/2019/thumbhole-varmint/Winchester%20XPR%20Thumbhole%20Warmint%20-%20535727212.jpg?width=835&auto=webp&quality=75",
+      "name": "XPR Thumbhole Varmint (Suppressor Ready)",
+      "price": 2500,
+      "descr": "An accurate platform for shooting offhand or off the bench. Thumbhole stocks provide a long consistent surface for an equally consistent sight picture - one of the fundamentals of good marskmanship. This is true for shooting from a rest or out on a stalk. Wood laminate is solid as a rock, and much better looking - you won't have to worry about warping, flex, or any other accuracy reducing movement from this beautiful stock. ",
+      "type": "Rifle",
+      "id": 9
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/rifles/xpr/2020/renegade-long-range-sr/Winchester%20Renegade%20Long%20Range%20SR%20-%20535732264.jpg?width=835&auto=webp&quality=75",
+      "name": "Renegade Long Range SR",
+      "price": 2600,
+      "descr": "Accurate bolt-action rifle with composite Grayboe Renegade Long Range stock, Perma-Cote finish on barrel, receiver and bolt handle, threaded muzzle for a suppressor or muzzle brake, and nickel Teflon™ coating on bolt.",
+      "type": "Rifle",
+      "id": 10
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/rifles/xpr/2020/stealth-sr/Winchester%20XPR%20Stealth%20SR%20-%20535757290.jpg?width=835&auto=webp&quality=75",
+      "name": "XPR Stealth, Suppressor Ready",
+      "price": 2650,
+      "descr": "Picatinny-style scope rail, precision button rifled barrel, Perma-Cote black finish, free-floating barrel with recessed target crown, 5/8\"x24 threading for suppressor or muzzle brake (350 Legend threading is 11/16\"-24 .750\" barrel diameter at thread shoulder), nickel Teflon™ coating on bolt",
+      "type": "Rifle",
+      "id": 11
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/rifles/Wildcat/2020/strata/Winchester%20Wildcat%20Strata%20-%20521106102.jpg?width=835&auto=webp&quality=75",
+      "name": "Wildcat 22 – TrueTimber Strata",
+      "price": 1860,
+      "descr": "Light, rugged, accurate and ultra-reliable. You have not seen, nor held, nor shot anything like the Wildcat™. Winchester Repeating Arms® has been building legendary rimfires for more than a century, and this rifle is taking the rimfire autoloader to a whole new level of value and performance. Actually, a whole new level of everything. Meet the Wildcat™. ",
+      "type": "Shotguns",
+      "id": 12
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/shotguns/sxp/2022-summer-blast/sxp-high-grade-field/sxp-high-grade-field.jpg?width=835&auto=webp&quality=75",
+      "name": "SXP High Grade Field",
+      "price": 2100,
+      "descr": "Pump-action shotgun ideal for pheasant, ducks and doves with a beautiful High-Grade Turkish Walnut stock with a satin varnish finish. Back-bored barrel and Invector-Plus choke system for consistent patterning. Durable chrome-plated chamber and bore.",
+      "type": "Shotguns",
+      "id": 13
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/shotguns/sxp/2022-summer-blast/sxp-hunter-true-timber/sxp-hunter-truetimber-vsx.jpg?width=835&auto=webp&quality=75",
+      "name": "SXP Hunter TrueTimber VSX",
+      "price": 2400,
+      "descr": "Reliable pump shotgun for duck and goose hunting. Features a versatile TrueTimber® VSX camouflage finish. Available in 12 and 20 gauge",
+      "type": "Shotguns",
+      "id": 14
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/shotguns/sxp/2022-summer-blast/sxp-hybrid-defender-true-timber/sxp-hybrid-defender-truetimber-midnight.jpg?width=835&auto=webp&quality=75",
+      "name": "SXP Hybrid Defender TrueTimber Midnight",
+      "price": 2300,
+      "descr": "General purpose pump shotgun that is built for speed and reliability. TrueTimber Midnight camo finish on the composite stock and forearm. The barrel and receiver are protected with a Perma-Cote Gray finish. Features fast inertia-assisted pump action operation. Removeable TRUGLO fiber-optic front sight. Available in 12 or 20 gauge.",
+      "type": "Shotguns",
+      "id": 15
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/shotguns/sxp/2022-summer-blast/sxp-hybrid-field/sxp-hybrid-field.jpg?width=835&auto=webp&quality=75",
+      "name": "SXP Hybrid Field",
+      "price": 2100,
+      "descr": "Pump shotgun that is built for speed and reliability. Features the protection of a Perma-Cote Gray finish on the barrel and receiver. Traditional wood stock. Dual action bars and strong rotary bolt sure pump action. Barrel features chrome plated chamber and bore for added durability. TRUGLO fiber-optic front sight.",
+      "type": "Shotguns",
+      "id": 16
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/shotguns/sxp/2022-summer-blast/sxp-long-beard-hybrid-true-timber-strata/sxp-long-beard-hybrid-true-timber-strata.jpg?width=835&auto=webp&quality=75",
+      "name": "SXP Long Beard Hybrid - TrueTimber Strata",
+      "price": 2500,
+      "descr": "The ultimate turkey hunting pump shotgun and a great all-around camp gun. Pistol grip stock with spacers to adjust the length of pull and interchangeable comb height pieces. Includes a top-performing Long Beard choke. ",
+      "type": "Shotguns",
+      "id": 17
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/shotguns/sxp/2021/extreme-deer/Winchester%20SXP%20Extreme%20Deer%20-%20512312340.jpg?width=835&auto=webp&quality=75",
+      "name": "SXP Extreme Deer",
+      "price": 2600,
+      "descr": "Rifled barrel, pistol grip, interchangable comb pieces, drilled and tapped for optic of your choice, TRUGLO fiber optic sights",
+      "type": "Shotguns",
+      "id": 18
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/shotguns/sxp/dark-earth-defender/WSG16_512326395.jpg?width=835&auto=webp&quality=75",
+      "name": "SXP Dark Earth Defender",
+      "price": 2250,
+      "descr": "Defender model in a dark earth finish, uses interchangeable Invector-Plus chokes, detachable TRUGLO fiber optic bead. Chrome-plated bore and chamber, matte black chrome bolt. 12 or 20 gauge.",
+      "type": "Shotguns",
+      "id": 19
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/shotguns/sxp/camp-field-combo/SXP-CampField-Combo-512257-3248hr.jpg?width=835&auto=webp&quality=75",
+      "name": "SXP Camp/Field Combo",
+      "price": 2800,
+      "descr": "Field barrel and compact 18\" barrel included in the combo.  Back-bored, Invector Plus, hard chrome barrel, and chamber. Black composite stock",
+      "type": "Shotguns",
+      "id": 20
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/shotguns/sxp/2021/extreme-defender-fde/Winchester%20SXP%20Extreme%20Defender%20FDE%20-%20512410395-01.jpg?width=835&auto=webp&quality=75",
+      "name": "SXP Extreme Defender FDE",
+      "price": "30",
+      "descr": "Flat Dark Earth (FDE) Receiver finish; Picatinny rail with ghost ring sight. Blade front sight; Heat Shield; Hard chrome chamber and bore. Pistol grip buttstock and more.",
+      "type": "Shotguns",
+      "id": 21
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/rifles/model-1885/2021/1885-low-wall-hunter-high-grade/1885_LowWallHtrHG_Temp.jpg?width=835&auto=webp&quality=75",
+      "name": "Model 1885 Low Wall Hunter High Grade",
+      "price": 1950,
+      "descr": "Classic single-shot rifle with falling block action. High grade walnut stock with polished blue steel reciever and barrel, drilled and tapped for scope mount, full octagon barrel, 22 LPI cut checkering, Pachmayr® Decelerator recoil pad. Includes one-piece scope base and sling swivel studs.",
+      "type": "Rifle",
+      "id": 22
+    },
+    {
+      "image": "Model 1885 Hunter Rimfire",
+      "name": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/rifles/model-1885/low-wall-rimfire/Model-1885-Low-Wall-Hunter-Rimfire-Octagon-MID-524100-hr.jpg?width=835&auto=webp&quality=75",
+      "price": 1800,
+      "descr": "Single shot, lever-action falling block Model 1885 low wall rifle with superb lockup and classic accuracy. Features a checkered walnut curved grip stock with Schnabel forearm, 24\" blued octagon barrel with Marble Arms gold bead sight, Pachmayr buttpad, tapped for scope mount.",
+      "type": "Rifle",
+      "id": 23
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/shotguns/model-101/field/Model-101-Field-MID-513046-hr.jpg?width=835&auto=webp&quality=75",
+      "name": "Model 101 Field",
+      "price": 2150,
+      "descr": "Smooth, thin lines. Pachmayr White Line Pad. Grade II/III walnut stock, Invector Plus chokes, more",
+      "type": "Shotguns",
+      "id": 24
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/shotguns/model-101/pigeon-grade-trap-adjustable-comb/Model-101-Pigeon-Grade-Trap-(Adjustable-Comb)-MID-513059-hr.jpg?width=835&auto=webp&quality=75",
+      "name": "Model 101 Pigeon Trap (Adjustable Comb)",
+      "price": 2200,
+      "descr": "Original Pigeon Grade styling, grade II/III walnut, adjustable Monte Carlo comb, nickel plated receiveer, deep engraving. ",
+      "type": "Shotguns",
+      "id": 25
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/accessories/scope-mounts/Model-1885-Steel-Bases-635151908-691hr.jpg?width=835&auto=webp&quality=75",
+      "name": "1885 Steel Bases",
+      "price": 120,
+      "descr": "Precision machined steel. Fits Winchester Talley style steel scope rings.",
+      "type": "Accessories",
+      "id": 26
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/accessories/scope-mounts/Model-70-Steel-Base-MID-635151912-hr.jpg?width=835&auto=webp&quality=75",
+      "name": "Model 70 Steel Base",
+      "price": 140,
+      "descr": "Designed specifically for Model 70s. Precision quality for top accuracy. ",
+      "type": "Accessories",
+      "id": 27
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/accessories/scope-mounts/shotgun-weaver-style-base/Winchester%20Shotgun%20Weaver%20Style%20Base%20-%2062500.jpg?width=835&auto=webp&quality=75",
+      "name": "Shotgun Picatinny Style Scope Rail",
+      "price": 130,
+      "descr": "Machined picatinny style rail for use as a base on your SXP or SX2. Very versatile for ring positioning. Solid precision for accuracy. ",
+      "type": "Accessories",
+      "id": 28
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/accessories/scope-mounts/Winchester%20weaver%20style%20rings_62610.jpg?width=835&auto=webp&quality=75",
+      "name": "Weaver Style Scope Rings",
+      "price": 90,
+      "descr": "Made to fit Winchester Weaver style integrated scope bases. High precision. Easy to set up. ",
+      "type": "Accessories",
+      "id": 29
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/accessories/scope-mounts/Model-70-Integrated-Bases-MID-621151923-hr.jpg?width=835&auto=webp&quality=75",
+      "name": "XPR Integrated Scope Bases and Rings",
+      "price": 95,
+      "descr": "Entire base/ring is one integrated piece that mounts directly to the reciever.",
+      "type": "Accessories",
+      "id": 30
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/accessories/choke-tubes/Invector-Plus-Choke-Tubes-MID-61305-hr.jpg?width=835&auto=webp&quality=75",
+      "name": "Invector-Plus™ Choke Tubes",
+      "price": 150,
+      "descr": "Premium quality tubes made to exact Winchester Repeating Arms specs.",
+      "type": "Accessories",
+      "id": 31
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/accessories/choke-tubes/Signature-Invector-Plus-Chokes-MID-61307-hr.jpg?width=835&auto=webp&quality=75",
+      "name": "Signature Invector-Plus Chokes",
+      "price": 200,
+      "descr": "Our signature tube with the signature red band on the front of the tube plus a knurled finger surface.",
+      "type": "Accessories",
+      "id": 32
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/accessories/choke-tubes/long-beard/WGA15_Long_Beard_Choke_Tube_01.jpg?width=835&auto=webp&quality=75",
+      "name": "Long Beard Invector Plus Choke Tube",
+      "price": 180,
+      "descr": "12 gauge ultra-extended tubefor top turkey patterns. Steel with camo muzzle band. ",
+      "type": "Accessories",
+      "id": 33
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/accessories/choke-tubes/Standard-Invector-Choke-Tubes-MID-61303-hr.jpg?width=835&auto=webp&quality=75",
+      "name": "Standard Invector™ Choke Tubes",
+      "price": 160,
+      "descr": "Considered the world's most proven tube. Flush mount. Long tapers. Precision dimensions.For Back-bored barrels.",
+      "type": "Accessories",
+      "id": 34
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/accessories/magazines/XPR%20Rifle%20magazine%20WGA15_112098800.jpg?width=835&auto=webp&quality=75",
+      "name": "XPR Detachable Box Magazine",
+      "price": 240,
+      "descr": "Superior design for XPR rifles. Strong, ribbed polymer construction, in-line feeding. Use the \"More Options\" pull-down menu to determine the correct magazine for your caliber. ",
+      "type": "Accessories",
+      "id": 35
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/news/articles/2019-article-assets/2019-q1-article-assets/2019-wildcat-uncaged/WRA19_Wildcat_Magazine1.jpg?width=835&auto=webp&quality=75",
+      "name": "Wildcat 22 Autoloader Magazine",
+      "price": 250,
+      "descr": "10-round rotary magazine. Designed specifically for the Wildcat 22 autoloading rifle. ",
+      "type": "Accessories",
+      "id": 36
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/accessories/magazines/SRX%20Hinged%20Floorplate%20Magazine_sxrxtramag.jpg?width=835&auto=webp&quality=75",
+      "name": "Super X Rifle Hinged Floorplate Magazine",
+      "price": 275,
+      "descr": "Sturdy metal frame. 4 round capacity.",
+      "type": "Accessories",
+      "id": 37
+    },
+    {
+      "image": "https://www.winchesterguns.com/content/dam/winchester-repeating-arms/products/accessories/magazines/Super%20X%20Rifle%20detachable%20WFA07_SXR%20Magazine.jpg?width=835&auto=webp&quality=75",
+      "name": "Super X Rifle Detachable Floorplate Magazine",
+      "price": 300,
+      "descr": "Sturdy metal frame. 4 round capacity.",
+      "type": "Accessories",
+      "id": 38
+    }
+  ]
+}

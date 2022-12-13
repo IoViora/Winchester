@@ -1,0 +1,9 @@
+.homepage-second {
+  display: flex;
+  margin-top: 2%;
+  margin-bottom: 3%;
+  justify-content: space-evenly;
+}
+.image {
+  size: 100vh;
+}

@@ -1,0 +1,48 @@
+body {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+.navbar {
+  margin-top: 0;
+  display: flex;
+  background-color: black;
+  color: white;
+  font-weight: 700;
+  font-family: "Roboto", sans-serif;
+}
+.navbar-mainContent {
+  width: 30%;
+  align-items: center;
+  display: flex;
+  justify-content: space-evenly;
+}
+.navbar-mainContent-link {
+  border-bottom: 4px solid #000;
+}
+.navbar-mainContent-link:hover {
+  border-bottom: 4px solid red;
+}
+.navbar-logo {
+  padding: 1%;
+  width: 16%;
+}
+.navbar-search {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 1%;
+  border-left: 3px solid red;
+}
+.navbar-cart {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 1%;
+}
+.navbar-auth {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 1%;
+}

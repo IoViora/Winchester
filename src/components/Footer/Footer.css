@@ -1,0 +1,36 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+.footer-up {
+  height: 15%;
+  background-color: black;
+}
+.footer-img {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  display: flex;
+  margin: auto;
+  width: 30%;
+}
+.footer-down {
+  display: flex;
+  text-align: center;
+  justify-content: space-evenly;
+}
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  color: #555;
+}
+.footer-last {
+  margin-top: 1%;
+  text-align: center;
+  justify-content: center;
+  color: #555;
+}
+.footer-last-content {
+  margin-top: 0.5%;
+}
+.footer-last-icon {
+  margin-top: 0.5%;
+}

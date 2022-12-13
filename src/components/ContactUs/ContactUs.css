@@ -1,0 +1,47 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+body {
+  color: #555;
+}
+.contuctusintro {
+  display: flex;
+  justify-content: center;
+  margin-top: 2%;
+  font-weight: normal;
+  padding-bottom: 2%;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.398);
+}
+.maininfocontact {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.427);
+}
+.contactcontent {
+  line-height: 1.5;
+  margin-top: 3%;
+}
+.bold {
+  font-weight: 600;
+}
+.questions {
+  text-decoration: none;
+  color: #555;
+  color: red;
+}
+.comandsug {
+  font-size: 48px;
+}
+.contacticons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.icons {
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+  list-style-type: none;
+  color: black;
+  display: flex;
+  align-items: center;
+  font-size: 25px;
+}
